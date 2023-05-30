@@ -11,7 +11,7 @@ html {
 }
 .header {
     overflow: hidden;
-    background: url(3.jpeg) center center no-repeat;
+    background: url(https://github-production-user-asset-6210df.s3.amazonaws.com/118592179/241898904-8500a36d-98bc-4961-9158-b721d11f0d61.jpeg) center center no-repeat;
     padding: 92px 183px 157px 118px;
     background-size: cover;
 }
@@ -101,11 +101,11 @@ html {
 }
 
 .card_type-1_img1::before{
-  background-image: url(home_2.jpg);
+  background-image: url(https://user-images.githubusercontent.com/118592179/241898958-222752bc-54a5-4ee8-9535-8afe3bb35f5c.jpg);
 }
 
 .card_type-1_img2::before{
-  background-image: url(home_3.jpg);
+  background-image: url(https://user-images.githubusercontent.com/118592179/241898960-3cfdb18d-3ef5-4b98-9440-3a13201ac70b.jpg);
 }
 
 .card_1_wrap{
